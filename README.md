@@ -76,7 +76,6 @@ To interpret the model’s biological reasoning:
 > This step bridges AI interpretability with molecular biology, turning model features into clinically relevant insights.
 
 ---
-
 ## 💻 Neuronova Diagnostic Interface
 
 An interactive diagnostic dashboard was developed to allow clinicians to upload patient RNA-seq profiles.
@@ -89,4 +88,13 @@ An interactive diagnostic dashboard was developed to allow clinicians to upload 
   - Prognostic score (molecular severity)
   - Visualization of top predictive biomarkers (via SHAP)
 
-🖥️ **Prototype Screenshot Previews (to be added):**
+---
+
+🖥️ **Prototype Screenshot Previews**
+
+| Dashboard Overview | Diagnostic Results | SHAP Visualization | Prognostic Analysis |
+|--------------------|--------------------|--------------------|---------------------|
+| ![Dashboard](ALS111.jpg) | ![Results](photo_2025-10-31_13-53-04.jpg) | ![SHAP](photo_2025-10-31_13-53-04%20(2).jpg) | ![Prognostic](MM.jpg) |
+
+> *Visual representation of the Neuronova diagnostic system — showcasing the multi-omics inference pipeline, explainability module, and patient-specific predictions.*
+
