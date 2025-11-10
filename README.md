@@ -92,9 +92,8 @@ An interactive diagnostic dashboard was developed to allow clinicians to upload 
 
 🖥️ **Prototype Screenshot Previews**
 
-| Dashboard Overview | Diagnostic Results | SHAP Visualization | Prognostic Analysis |
+| Dashboard Overview |                    |                    |                     |
 |--------------------|--------------------|--------------------|---------------------|
 | ![Dashboard](ALS111.jpg) | ![Results](photo_2025-10-31_13-53-04.jpg) | ![SHAP](photo_2025-10-31_13-53-04%20(2).jpg) | ![Prognostic](MM.jpg) |
 
-> *Visual representation of the Neuronova diagnostic system — showcasing the multi-omics inference pipeline, explainability module, and patient-specific predictions.*
-
+> *Visual representation of the Neuronova diagnostic system 
